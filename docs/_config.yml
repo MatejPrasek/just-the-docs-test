@@ -1,6 +1,6 @@
 title: Just the Docs Test
 description: A test page for Just the Docs
-theme: jekyll-theme-hacker
+remote_theme: just-the-docs
 
 url: https://matejprasek.github.io/just-the-docs-test/
 
