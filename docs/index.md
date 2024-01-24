@@ -1,3 +1,9 @@
-# Test
+---
+layout: default
+title: Test page
+nav_order: 1
+---
 
-this is a test file
+# Test page
+
+this is a test page
