@@ -1,0 +1,9 @@
+# This file contains configuration for local build
+# It is intended to be used together with docs/_config.yml
+# You can specify multiple config files by running:
+# `bundle exec jekyll serve --config _config.yml,../docs/_config.yml`
+
+source: ../docs
+destination: ./_site
+
+theme: just-the-docs
